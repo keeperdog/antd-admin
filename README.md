@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/keeperdog/antd-admin.git
-cd my-project
+cd antd-admin
 ```
 
 2. Installation dependence.
