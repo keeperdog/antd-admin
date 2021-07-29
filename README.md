@@ -25,5 +25,5 @@ npm install
 npm run start
 ```
 
-4. After the startup is complete, open a browser and visit [http://localhost:7000](http://localhost:7000), If you need to change the startup port, you can configure it in the `.env` file.
+4. open a browser and visit [http://localhost:7000](http://localhost:7000)
 
